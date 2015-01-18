@@ -1,0 +1,12 @@
+{application, earl, [
+    {description, "A application library for general utilities."},
+    {vsn, git},
+    {modules, []},
+    {registered, []},
+    {applications, [
+        kernel,
+        stdlib
+    ]},
+    {env, []}
+]}.
+
